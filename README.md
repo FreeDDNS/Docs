@@ -1,4 +1,4 @@
 # FreeDDNS - Extra Layanan DDNS, Subdomain Gratis 
 Official Page Wiki Documentation
 
-Read More Wiki >> [https://www.hostddns.us](https://www.hostddns.us) <<
+Read More Wiki >> [https://github.com/FreeDDNS/Docs/wiki](https://github.com/FreeDDNS/Docs/wiki) <<
